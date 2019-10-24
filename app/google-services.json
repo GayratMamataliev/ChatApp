@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130684456040",
+    "firebase_url": "https://androidchatapp-becab.firebaseio.com",
+    "project_id": "androidchatapp-becab",
+    "storage_bucket": "androidchatapp-becab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130684456040:android:aef49543d6840584",
+        "android_client_info": {
+          "package_name": "com.example.gayrat.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130684456040-uva2242clhd2rdr0m4tbe88829eiemcj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gayrat.chatapp",
+            "certificate_hash": "cfb25bc285689a63a8e8b21a4212d4d623fd18d7"
+          }
+        },
+        {
+          "client_id": "130684456040-hlbk457q4moskqqj9l39me1p0cjjekdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu4qV2DLQNLLmreaTQwMwqAKlep8idO_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130684456040-hlbk457q4moskqqj9l39me1p0cjjekdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
